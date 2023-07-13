@@ -1,3 +1,4 @@
+#user data for dependencies installation for AWS
 #!bin/bash
 sudo yum update
 sudo yum install -y ruby
